@@ -10,14 +10,14 @@ import './App.css';
 function App() {
   return (
    <div className="App">
-    <Draggable>
-        <div>
+    <Draggable className="card1">
+        <div className="card1">
           <Info />
         </div>
     </Draggable>
 
-    <Draggable>
-        <div>
+    <Draggable className="card1">
+        <div className="card1">
           <Bandcamp />
         </div>
     </Draggable>
