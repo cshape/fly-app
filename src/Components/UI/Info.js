@@ -12,7 +12,7 @@ function Info () {
   				They enjoy spicy pickles, old novels, cooking elaborate meals, and late-night interior redesigns.
   			</p>
   			<p>
-  				Now, in 2019, they emerge on to the public stage to present and perform their eight song EP 'Overall'.
+  				Now, in 2019, they emerge on to the public stage to present and perform their eight song EP, <i>Overall</i>.
   			</p>
   		</div>
    )
